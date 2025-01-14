@@ -1,3 +1,5 @@
 [
-    {"kysymys" : "Mistä suunnasta tuulee?", "vastaus" : "itä"}
+    {"kysymys" : "Who directed the 2023 film Poor Things?", "vaihtoehto1" : "Quentin Tarantino", "vaihtoehto2" : "Yorgos Lanthimos", "vaihtoehto3" : "Christopher Nolan", "oikea_vastaus" : "Yorgos Lanthimos"},
+    {"kysymys" : "Who directed the 2017 film Get Out?", "vaihtoehto1" : "Jordan Peele", "vaihtoehto2" : "Christopher Nolan", "vaihtoehto3" : "Tim Burton", "oikea_vastaus" : "Jordan Peele"},
+    {"kysymys" : "What are the names of the two main characters in La La Land?", "vaihtoehto1" : "Catherine and Jordan", "vaihtoehto2" : "Ryan and Jessica", "vaihtoehto3" : "Mia and Sebastian", "oikea_vastaus" : "Mia and Sebastian"}
 ]
